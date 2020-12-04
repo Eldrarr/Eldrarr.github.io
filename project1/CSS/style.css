@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+/* @font-face {
+    font-family: Raleway;
+    src: url(/Raleway/Raleway-VariableFont_wght.ttf);
+} */
+html {
+    font-family: 'Nerko One', cursive;
+}
+body {
+    background-color: rgb(250, 217, 217);
+}
+main {
+    padding: 30px;
+    width: 70%;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0 0 10px 3px rgba(255, 0, 0, 0.801);
+}
+div {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
